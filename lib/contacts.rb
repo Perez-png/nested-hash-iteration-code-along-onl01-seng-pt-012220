@@ -1,4 +1,10 @@
-
+contact = {
+  "Jon Snow"=> {
+    name
+  }
+  
+  
+}
 contacts = {
   "Jon Snow" => {
     name: "Jon",
